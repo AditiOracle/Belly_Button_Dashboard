@@ -12,7 +12,7 @@ In this challenge we are creating the belly button data dashboard for demographi
 
 **Gauge Chart shows** -\&gt;the weekly washing frequency&#39;s value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
-![Dashboard Image]
+![Dashboard Image](https://github.com/AditiOracle/Belly_Button_Dashboard/blob/main/Resources/Dashboard.PNG)
 
 ------------------
 
