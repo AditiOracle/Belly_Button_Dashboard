@@ -20,6 +20,6 @@ I have added three customization to the dashboard:
 
 1. Add information about what each graph visualizes, either under or next to each graph.
 
-2. Change the layout of the page.
+2. Make the webpage mobile-responsive.
 
 3. Add a navigation bar that allows you to select the bar or bubble chart on the page.
